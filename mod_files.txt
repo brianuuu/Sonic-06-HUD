@@ -1,0 +1,6 @@
+add ConfigSchema.json
+add mod.ini
+add README.txt
+add ScoreGenerations.ini
+add Sonic06HUD.dll
+add Sonic06HUD.ini

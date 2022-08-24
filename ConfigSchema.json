@@ -1,0 +1,108 @@
+{
+   "Groups":[
+      {
+         "Name":"Main",
+         "DisplayName":"Configuration",
+         "Elements":
+         [
+			{
+               "Name":"nCharacterIcon",
+               "DisplayName":"Character Life Icon",
+               "Description":[
+                  "Set what character's life icon to use, this will be ignored if Sonic 06 Definitive Experience is used",
+               ],
+               "Type":"IconEnum",
+               "MinValue":null,
+               "MaxValue":null,
+               "DefaultValue":"0"
+            },
+			{
+               "Name":"bUIColor",
+               "DisplayName":"Enable Character UI Color",
+               "Description":[
+                  "Use unused character UI color, only works for Sonic, Shadow and Silver. Other characters will use Sonic's",
+               ],
+               "Type":"bool",
+               "MinValue":null,
+               "MaxValue":null,
+               "DefaultValue":false
+            },
+         ]
+      }
+   ],
+   "Enums":{
+      "IconEnum":[
+         {
+            "DisplayName":"Sonic",
+            "Value":"0",
+            "Description":[
+               "Sonic's icon",
+            ]
+         },
+         {
+            "DisplayName":"Shadow",
+            "Value":"1",
+            "Description":[
+               "Shadow's icon",
+            ]
+         },
+         {
+            "DisplayName":"Silver",
+            "Value":"2",
+            "Description":[
+               "Silver's icon",
+            ]
+         },
+         {
+            "DisplayName":"Tails",
+            "Value":"3",
+            "Description":[
+               "Tails's icon",
+            ]
+         },
+         {
+            "DisplayName":"Amy",
+            "Value":"4",
+            "Description":[
+               "Amy's icon",
+            ]
+         },
+         {
+            "DisplayName":"Knuckles",
+            "Value":"5",
+            "Description":[
+               "Knuckles' icon",
+            ]
+         },
+         {
+            "DisplayName":"E-123 Omega",
+            "Value":"6",
+            "Description":[
+               "E-123 Omega's icon",
+            ]
+         },
+         {
+            "DisplayName":"Rouge",
+            "Value":"7",
+            "Description":[
+               "Rouge's icon",
+            ]
+         },
+         {
+            "DisplayName":"Blaze",
+            "Value":"8",
+            "Description":[
+               "Blaze's icon",
+            ]
+         },
+         {
+            "DisplayName":"Unknown",
+            "Value":"9",
+            "Description":[
+               "Unknown icon",
+            ]
+         },
+      ],
+   },
+   "IniFile":"Sonic06HUD.ini"
+}
