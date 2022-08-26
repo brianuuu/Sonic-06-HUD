@@ -68,6 +68,7 @@ Skyth
 
 Mario Tainaka
 -Menu sounds
+
 PTKickass
 -Initial 06 HUD
 
@@ -75,4 +76,5 @@ Crash5band
 -Shuriken (XNCP editor)
 
 Hyper
--Initial code project setup
+-Code support
+-Upscaled textures

@@ -1,0 +1,4 @@
+add mod.ini
+add ScoreGenerations.ini
+add ScoreGenerations.lua
+add ScoreGenerationsPriorityChecker.dll
