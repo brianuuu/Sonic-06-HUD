@@ -1,3 +1,8 @@
+## Sonic 06 HUD v2.1
+
+- Added Direct3D 9 Ex mod requirement
+
+
 ## Sonic 06 HUD v2.0
 
 - Direct gameplay HUD import from Sonic 06

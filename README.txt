@@ -1,5 +1,5 @@
 ---------------------------Sonic Generations Mod--------------------------
------------------------------Sonic 06 HUD v2.0----------------------------
+-----------------------------Sonic 06 HUD v2.1----------------------------
 
 This mod directly imports or recreates HUD from Sonic The Hedgehog (2006) by using XNCP files directly from the original game or using ImGui. This HUD mod is fully compatible with Sonic Generations, including Classic/Modern Sonic, Missions and Boss battles.
 
@@ -47,6 +47,9 @@ N/A
 ------------------------------------------------------------
 Change Log
 ------------------------------------------------------------
+v2.1
+-Added Direct3D 9 Ex mod requirement
+
 v2.0
 -Direct gameplay HUD import from Sonic 06
 -Boss health bar in boss battles
