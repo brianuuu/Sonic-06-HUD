@@ -1,3 +1,9 @@
+## Sonic 06 HUD v2.2
+
+- HE1ML support
+- Direct3D 11 support
+
+
 ## Sonic 06 HUD v2.1
 
 - Added Direct3D 9 Ex mod requirement
